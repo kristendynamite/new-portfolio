@@ -1,0 +1,89 @@
+body {
+  font-family: Amatic SC;
+  /*background-color: #ccccff;*/
+  background: #DAF7A6
+}
+h1 {
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  /*background: #F8D3F8*/
+  background: #ccccff;
+}
+
+
+h2 {
+  /*color: #008000;*/
+  text-align: center;
+  /*background-color: #F8D3F8*/
+  background: #ccccff;
+}
+
+h3 {
+  /*color: #6666ff;*/
+  text-align: center;
+  background-color: #DAF7A6
+}
+
+/*.container {
+  margin-bottom: 50px;
+  margin-top: 50px;
+  padding-left: 5px;
+  padding-right: 5px;
+}*/
+/*
+
+
+}
+
+.subtitle {
+  text-align: center;
+}
+
+.column {
+  float: left;
+  /*width: 1000px;*/
+  /*float: right;*/
+  /*margin-right: 50px;*/
+}
+
+/*.column_2 {
+  width: 1000px;
+  float: center;
+  background-color: white;
+  /*height: 450px;*/
+  /*margin-left: 50px;*/*/
+}
+/*
+.column_3 {
+  width: 600px;
+  float: center;
+  /*border-style: groove;*/
+  /*background-color: #ccccff;*/
+  margin-right: 50px;
+  margin-left: 50px;*/
+}
+
+img {
+  float: left;
+}
+
+p {
+  font-size: 20px;
+  font-family: Open Sans Condensed;
+}
+
+ul {
+  font-size: 18px;
+  font-family: Open Sans Condensed;
+}
+
+ol {
+  font-size: 18px;
+  font-family: Open Sans Condensed;
+}
+
+.special {
+  color: #008000;
+  font-weight: bolder;
+}
